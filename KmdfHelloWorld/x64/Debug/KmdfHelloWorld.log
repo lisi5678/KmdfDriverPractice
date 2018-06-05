@@ -1,0 +1,18 @@
+﻿  Building 'KmdfHelloWorld' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\KmdfHelloWorld.inf
+  Stamping [Version] section with DriverVer=05/30/2018,13.53.34.147
+  KmdfHelloWorld.vcxproj -> C:\Users\Si Li\source\repos\KmdfHelloWorld\x64\Debug\KmdfHelloWorld.sys
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Si Li\source\repos\KmdfHelloWorld\x64\Debug\KmdfHelloWorld\kmdfhelloworld.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Si Li\source\repos\KmdfHelloWorld\x64\Debug\KmdfHelloWorld\kmdfhelloworld.cat
+  
